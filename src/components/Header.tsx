@@ -10,7 +10,7 @@ export default function Header() {
               <Mail className="w-6 h-6 text-white" />
             </div> */}
             <img
-              src="bluewhaleapps_blue_2024.png"   
+              src="/bluewhaleapps_blue_2024.png"   
               alt="Logo"
               className="h-10 object-contain"
             />
