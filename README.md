@@ -1,1 +1,1 @@
-# sam-ai-frontend
+Email_Sequence_Generator
